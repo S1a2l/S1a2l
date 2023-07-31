@@ -77,4 +77,14 @@ section {
     letter-spacing: 1px;
     border-radius: 15px;
     margin-bottom: 40px;
+    transition: 0.7s ease;
+}
+.social-icons a {
+  color: #fff;
+  font-size: 1.7em;
+  padding-right: 30px ;
+}
+.main-btn:hover {
+  background-color: #3a6fc4;
+  transform: scale(1.1);
 }
