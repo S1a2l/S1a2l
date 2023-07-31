@@ -10,19 +10,18 @@
    }
 header {
   background-color: #f0f0f0;
-  width:100 %;
+  width:100%;
   position:fixed;
   z=index: 999;
   display:flex;
   justify-content: space-between;
   align-items : center;
- 
-}
-logo{
+  padding:10px 200px;
+
+,logo{
   text-decoration: none;
-  color: #3a6cf4;
+  color:#3a6fc4;
   text-transform:uppercase;
   font-weight:700;
-  font-size:1.8 em;
+  font-size:1.8em;
   }
-    
