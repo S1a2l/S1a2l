@@ -65,5 +65,16 @@ section {
     letter-spacing: 1px;
     margin-top: 10px;
     margin-bottom: 30px;
-
   }
+  .main-btn {
+    color: #fff;
+    background-color: #601cfc;
+    text-decoration:none ;
+    font-size: 1.1em;
+    font-weight: 600;
+    display: inline-block;
+    padding: 0.9375em 2.1875em ;
+    letter-spacing: 1px;
+    border-radius: 15px;
+    margin-bottom: 40px;
+}
