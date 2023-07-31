@@ -51,5 +51,9 @@ section {
   font-size: 1.4em;
   font-weight: 500;
 }
+.main h2 span {
+  color: #1cfcfc;
+  font-size: 3em;
+  font-weight: 600;
 
-
+}
