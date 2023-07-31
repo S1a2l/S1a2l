@@ -43,7 +43,7 @@ section {
   align-content: center;
   background: url(automate.png)  ;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 200%;
   background-position: center center ;
   background-attachment: fixed;
 }
