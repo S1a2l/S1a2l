@@ -16,12 +16,18 @@ header {
   align-items : center;
   padding-left: 0%; 
 }
-:lang(object) {
+.logo{
   text-decoration: none;
   color:#3a6fc4;
   text-transform:uppercase;
   font-weight:700;
   font-size:1.8em;
+}
+.navigation a{
+  color: #3a6fc4;
+  text-decoration: none;
+  font-size: 1.1em;
+  font-weight: 500;
 }
 
 
