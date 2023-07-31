@@ -41,6 +41,8 @@ section {
   min-height: 100vh;
   display: flex;
   align-content: center;
+  background: url(automate.png) no-repeat ;
+  background-size: cover;
 }
 
 
