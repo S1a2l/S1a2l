@@ -37,13 +37,13 @@ section {
     padding: 100px 200px;
 }
 .main {
-  width: 100px;
+  /*width: 100px;*/
   min-height: 100vh;
   display: flex;
   align-content: center;
   background: url(automate.png)  ;
   background-repeat: no-repeat;
-  background-size: 200%;
+  background-size: cover;
   background-position: center center ;
   background-attachment: fixed;
 }
