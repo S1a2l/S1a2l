@@ -44,6 +44,12 @@ section {
   background: url(automate.png) no-repeat ;
   background-size: cover;
   background-position: center;
+  background-attachment: fixed;
+}
+.main h2 {
+  color: #f0f0f0;
+  font-size: 1.4em;
+  font-weight: 500;
 }
 
 
